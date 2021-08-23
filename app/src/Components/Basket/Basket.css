@@ -1,0 +1,13 @@
+.itemComponent {
+  margin: 10px;
+  padding: 10px;
+}
+
+.quantityBox {
+  width: 20px;
+}
+
+.modal {
+  min-height: 300px;
+  min-width: 500px;
+}
